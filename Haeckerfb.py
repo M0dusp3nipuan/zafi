@@ -1,22 +1,22 @@
 #!/usr/bin/python2
-# coding=utf-8
-# coding by Romi Afrizal
-# Note : jangan di ubah lagi! nanti error, script udah enak
-# Open source code team | ngotak dikit cok jangan jual di perjual belikan 
+# pengkodean=utf-8
+# pengkodean oleh Haeckerfb
+# Catatan : jangan di ubah lagi! nanti error, script udah enak
+# Tim kode sumber terbuka | ngotak dikit cok jangan jual di jual belikan 
 
 Hj = '\x1b[1;92m' 
 Mt = '\x1b[0m' 
 ingfo = (
 """%s
- • Info script :
+ • Skrip info:
  	
- - author      : Romi Afrizal
- - facebook    : facebook.com/romi.afrizal.102
- - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
- - script name : ZAFI (Zona Akun Facebook Indonesia)
- - version     : 1.1
+- penulis : Haeckerfb m0dusp3nipuan
+- facebook : facebook.com/haeckerfb.haeckerfb.5
+- halaman penggemar: facebook.com/haeckerfb.haeckerfb.5
+- whatsapp : +6282261310817
+- github : github.com/m0dusp3nipuan
+- nama script : ZAFI (Zona Akun Facebook Indonesia)
+- versi: 1.1
  
 %s"""%(Hj,Mt))
 import os
