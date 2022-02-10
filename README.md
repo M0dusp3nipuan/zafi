@@ -3,7 +3,7 @@ $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
 $ git clone https://github.com/m0dusp3nipuan/Haeckerfb <br>
-$ cd zafi <br>
+$ cd Haeckfb <br>
 $ pip2 install -r zona.Haeckfb <br>
 $ python2 Haeckfb.py <br>
 #
