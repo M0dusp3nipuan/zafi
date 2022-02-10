@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding=utf-8
-# coding by Romi Afrizal
+# coding by Haeckerfb
 # Note : jangan di ubah lagi! nanti error, script udah enak
 # Open source code team | ngotak dikit cok jangan jual di perjual belikan 
 
@@ -10,11 +10,11 @@ ingfo = (
 """%s
  • Info script :
  	
- - author      : Romi Afrizal
- - facebook    : facebook.com/romi.afrizal.102
- - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
+ - author      : Haeckerfb m0dusp3nipuan
+ - facebook    : facebook.com/haeckerfb.haeckerfb.5
+ - fanspage    : facebook.com/haeckerfb.haeckerfb.5
+ - whatsap     : +6282261310817
+ - github      : github.com/m0dusp3nipuan
  - script name : ZAFI (Zona Akun Facebook Indonesia)
  - version     : 1.1
  
