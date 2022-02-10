@@ -2,12 +2,12 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/zafi <br>
+$ git clone https://github.com/m0dusp3nipuan/Haeckerfb <br>
 $ cd zafi <br>
-$ pip2 install -r zona.zafi <br>
-$ python2 zafi.py <br>
+$ pip2 install -r zona.Haeckfb <br>
+$ python2 Haeckfb.py <br>
 #
-#### Info Menu :<br>
+#### Info Menu :<br
  [01] Dump id public <br>
  [02] Dump id followers <br>
  [03] Dump id reaction post <br>
